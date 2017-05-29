@@ -7,4 +7,10 @@
 
 > !['Copy Program' module diagram](./images/copy-program.png)
 
+> Figure [above] is a "structure chart". It shows that there are three modules, or subprograms,
+> in the application. The "Copy" module calls the other two. One can easily imagine a loop
+> within the "Copy" module. The body of that loop calls the "Read Keyboard" module to fetch 
+> a character from the keyboard, it then sends that character to the "Write Printer" module 
+> which prints the character.
+
 > extracted from [The Dependency Inversion Principle](https://drive.google.com/file/d/0BwhCYaYDn8EgMjdlMWIzNGUtZTQ0NC00ZjQ5LTkwYzQtZjRhMDRlNTQ3ZGMz/view), by Robert C. Martin
