@@ -14,3 +14,20 @@
 > which prints the character.
 
 > extracted from [The Dependency Inversion Principle](https://drive.google.com/file/d/0BwhCYaYDn8EgMjdlMWIzNGUtZTQ0NC00ZjQ5LTkwYzQtZjRhMDRlNTQ3ZGMz/view), by Robert C. Martin
+
+## Problem
+
+Your task, should you accept it, is to write a program that performs the above-descripted
+action.
+
+Bear in mind that we are not sure where to 'read' from. Neither where we want to write to.
+
+This is the API we want to have:
+
+```java
+class ReadKeyboard {
+  public boolean hasNext();
+  public String  get();
+}
+```
+
