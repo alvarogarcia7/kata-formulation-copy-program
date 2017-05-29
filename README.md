@@ -31,3 +31,9 @@ class ReadKeyboard {
 }
 ```
 
+```java
+class WritePrinter {
+  public void print();
+}
+```
+
