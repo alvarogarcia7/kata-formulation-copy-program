@@ -35,7 +35,7 @@ class ReadKeyboard {
 
 ```java
 class WritePrinter {
-  public void print();
+  public void print(String message);
 }
 ```
 
