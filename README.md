@@ -1,0 +1,2 @@
+# Kata Formulation: Copy Program
+
