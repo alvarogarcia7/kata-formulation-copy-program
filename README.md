@@ -1,5 +1,7 @@
 # Kata Formulation: Copy Program
 
+## Description
+
 > Consider a simple program that is charged
 > with the task of copying characters typed on a keyboard to a printer. Assume, furthermore,
 > that the implementation platform does not have an operating system that supports device
