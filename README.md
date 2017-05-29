@@ -5,4 +5,6 @@
 > that the implementation platform does not have an operating system that supports device
 > independence. We might conceive of a structure for this:
 
+> !['Copy Program' module diagram](./images/copy-program.png)
+
 > extracted from [The Dependency Inversion Principle](https://drive.google.com/file/d/0BwhCYaYDn8EgMjdlMWIzNGUtZTQ0NC00ZjQ5LTkwYzQtZjRhMDRlNTQ3ZGMz/view), by Robert C. Martin
