@@ -24,7 +24,7 @@ action.
 
 Bear in mind that we are not sure where to 'read' from. Neither where we want to write to.
 
-This is the API we want to have:
+These are the APIs we want to have:
 
 ```java
 class ReadKeyboard {
